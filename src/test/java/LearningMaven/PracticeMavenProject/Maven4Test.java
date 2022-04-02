@@ -29,6 +29,12 @@ public class Maven4Test {
 		action.moveToElement(w2).click().build().perform();
 
   }
+  
+  @Test
+  public void set() {
+	 System.out.println("Testing git commands");
+  }
+  
   @BeforeClass
   public void beforeClass() {
 		System.setProperty("webdriver.chrome.driver", "src\\test\\resources\\drivers\\chromedriver.exe");
