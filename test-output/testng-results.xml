@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63121" started-at="2022-03-19T13:40:45Z" finished-at="2022-03-19T13:41:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63121" started-at="2022-03-19T13:40:45Z" finished-at="2022-03-19T13:41:48Z">
+      <class name="LearningMaven.PracticeMavenProject.Maven1Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven1Test@3ec300f1]" name="beforeClass" is-config="true" duration-ms="24714" started-at="2022-03-19T13:40:45Z" finished-at="2022-03-19T13:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven1Test@3ec300f1]" name="f" duration-ms="16454" started-at="2022-03-19T13:41:10Z" finished-at="2022-03-19T13:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven1Test@3ec300f1]" name="afterClass" is-config="true" duration-ms="1044" started-at="2022-03-19T13:41:27Z" finished-at="2022-03-19T13:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- LearningMaven.PracticeMavenProject.Maven1Test -->
+      <class name="LearningMaven.PracticeMavenProject.Maven4Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven4Test@482cd91f]" name="beforeClass" is-config="true" duration-ms="16336" started-at="2022-03-19T13:41:28Z" finished-at="2022-03-19T13:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f4()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven4Test@482cd91f]" name="f4" duration-ms="2562" started-at="2022-03-19T13:41:44Z" finished-at="2022-03-19T13:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LearningMaven.PracticeMavenProject.Maven4Test@482cd91f]" name="afterClass" is-config="true" duration-ms="1591" started-at="2022-03-19T13:41:47Z" finished-at="2022-03-19T13:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- LearningMaven.PracticeMavenProject.Maven4Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

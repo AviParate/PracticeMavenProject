@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.191 sec <<< FAILURE!
+f(LearningMaven.PracticeMavenProject.Maven1Test)  Time elapsed: 14.757 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<+1 617-495-6000> but was:<Boston, MA 02163, United States>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at LearningMaven.PracticeMavenProject.Maven1Test.f(Maven1Test.java:26)
+
