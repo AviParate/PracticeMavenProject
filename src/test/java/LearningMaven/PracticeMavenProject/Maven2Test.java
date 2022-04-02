@@ -31,6 +31,12 @@ public class Maven2Test {
 	  System.out.println("Rating is: "+s3);
 	  
   }
+	
+ @Test
+ public void set(){
+	 System.out.println("This is for pull request for Maven 2 Test");
+ }
+	
   @BeforeClass
   public void beforeClass() {
 	System.setProperty("webdriver.chrome.driver", "src\\test\\resources\\drivers\\chromedriver.exe");
