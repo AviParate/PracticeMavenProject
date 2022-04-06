@@ -34,7 +34,12 @@ public class Maven2Test {
 	
  @Test
  public void set(){
-	 System.out.println("This is for pull request for Maven 2 Test");
+	 System.out.println("This is for first pull request for Maven 2 Test");
+ }
+	
+ @Test
+ public void set(){
+	 System.out.println("This is for second pull request for Maven 2 Test");
  }
 	
   @BeforeClass
