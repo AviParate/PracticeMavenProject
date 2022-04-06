@@ -38,7 +38,7 @@ public class Maven2Test {
  }
 	
  @Test
- public void set(){
+ public void set1(){
 	 System.out.println("This is for second pull request for Maven 2 Test");
  }
 	
